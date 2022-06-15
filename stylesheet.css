@@ -6,7 +6,6 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
   background-color: rgb(218, 255, 145);
 }
 
@@ -50,4 +49,5 @@ tr:nth-child(even) {
 p {
   margin-top: 100px;
   font-size: 7rem;
+  text-align: center;
 }
